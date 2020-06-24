@@ -1,0 +1,17 @@
+.box{
+    min-height: 40px;
+    background-color: peru;
+    color: white;
+    margin-bottom: 15px;
+    
+    
+}
+.bdr{
+    border: 1px solid red;
+}
+.marg{
+    margin-bottom: 10px;
+}
+.hig{
+    min-height: 80px;
+}
